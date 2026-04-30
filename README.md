@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Zunaira Asif
+### 💻 Aspiring Web Developer | IT Student
 
-<!--
-**zunairaa0137-az/zunairaa0137-az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BS Information Technology Student  
+🌱 Learning Web Development & Building Projects 
+📊 Skilled in HTML, CSS, MS Excel & Data Management 
+🎯 Goal: Become a professional web developer & work internationally  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML5 & CSS3  
+- Basic JavaScript  
+- Microsoft Excel & Data Handling  
+- Canva & Basic UI Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+🔹 [Portfolio Website](https://zunairaa0137-az.github.io/zunaira-portfolio)  
+🔹 Landing Page Project (Coming Soon)  
+
+---
+## 🌐 Connect with Me
+📧 Email: zunairaa.0137@gmail.com  
+🌍 Portfolio: https://yourusername.github.io/zunaira-portfolio  
+
+---
+
+---
+
+## 📊 GitHub Stats
+![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=zunairaa0137-az&show_icons=true&theme=default)
+⭐ Always learning, building, and improving every day
